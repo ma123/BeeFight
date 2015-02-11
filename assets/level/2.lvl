@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="1200" height="1050" life="3" time="50">	
+	<!-- Spodna strana 9ks-->
+	<entity x="0" y="0" type="thorn"/>
+	<entity x="150" y="0" type="thorn"/>
+	<entity x="300" y="0" type="thorn"/>
+	<entity x="450" y="0" type="thorn"/>
+	<entity x="600" y="0" type="thorn"/>
+	<entity x="750" y="0" type="thorn"/>
+	<entity x="900" y="0" type="thorn"/>
+	<entity x="1050" y="0" type="thorn"/>
+	<entity x="1200" y="0" type="thorn"/>
+	<!-- Vrchna strana 9ks-->
+    <entity x="0" y="1050" type="thorn"/>
+	<entity x="150" y="1050" type="thorn"/>
+	<entity x="300" y="1050" type="thorn"/>
+	<entity x="450" y="1050" type="thorn"/>
+	<entity x="600" y="1050" type="thorn"/>
+	<entity x="750" y="1050" type="thorn"/>
+	<entity x="900" y="1050" type="thorn"/>
+	<entity x="1050" y="1050" type="thorn"/>
+	<entity x="1200" y="1050" type="thorn"/>
+	<!-- Lava strana 6ks-->
+	<entity x="0" y="150" type="thorn"/>
+	<entity x="0" y="300" type="thorn"/>
+	<entity x="0" y="450" type="thorn"/>
+	<entity x="0" y="600" type="thorn"/>
+	<entity x="0" y="750" type="thorn"/>
+	<entity x="0" y="900" type="thorn"/>
+    <!-- Prava strana 6ks-->
+	<entity x="1200" y="150" type="thorn"/>
+	<entity x="1200" y="300" type="thorn"/>
+	<entity x="1200" y="450" type="thorn"/>
+	<entity x="1200" y="600" type="thorn"/>
+	<entity x="1200" y="750" type="thorn"/>
+	<entity x="1200" y="900" type="thorn"/>
+	<!-- Vnutorne ostne -->
+	<entity x="300" y="710" type="thorn"/>
+	<entity x="450" y="710" type="thorn"/>
+	<entity x="600" y="710" type="thorn"/>
+	<entity x="750" y="710" type="thorn"/>
+	<entity x="900" y="710" type="thorn"/>
+	<entity x="300" y="560" type="thorn"/>
+	<entity x="600" y="560" type="thorn"/>
+	<entity x="900" y="560" type="thorn"/>
+	<!-- Hrac a zaciatocni kvet -->
+	<entity x="610" y="230" type="leaf"/>
+	<entity x="610" y="790" type="leaf"/>
+	<entity x="620" y="250" type="player"/>
+	<!-- Kvety-->
+    <entity x="620" y="190" type="flower"/>
+</level>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="1000" height="1500" life="3" time="50">	
+	<entity x="100" y="100" type="thorn_horizontal"/>
+	<entity x="200" y="150" type="thorn_vertical"/>
+	<entity x="400" y="300" type="leaf"/>
+	<entity x="700" y="350" type="flower"/>
+	<entity x="600" y="600" type="flower"/>
+	<entity x="300" y="100" type="flower"/>
+	<entity x="400" y="200" type="player"/>
+</level>
